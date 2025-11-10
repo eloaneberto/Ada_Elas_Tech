@@ -1,4 +1,4 @@
-Ada Elas Tech – Trilha de Dados
+*Ada Elas Tech – Trilha de Dados*
 
 Repositório com exercícios, estudos e projetos desenvolvidos ao longo do programa Ada Elas Tech – Dados.
 
@@ -7,7 +7,7 @@ Este repositório reúne todos os materiais produzidos por mim durante o program
 Aqui você encontrará desde análises exploratórias iniciais até atividades mais complexas envolvendo manipulação, tratamento e visualização de dados utilizando Python e bibliotecas amplamente usadas no mercado.
 
 
-Objetivo do Programa
+*Objetivo do Programa*
 
 A trilha de Dados do Ada Elas Tech foi criada para desenvolver habilidades práticas e teóricas essenciais para atuar em áreas como:
 
@@ -22,7 +22,7 @@ Business Intelligence
 Ao longo do programa, aprendemos desde lógica de programação e fundamentos de Python até boas práticas de análise, tratamento de dados e construção de insights.
 
 
-Conteúdo estudado no programa
+*Conteúdo estudado no programa*
 
 Os materiais deste repositório abrangem:
 
